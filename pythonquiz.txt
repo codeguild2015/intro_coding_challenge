@@ -1,0 +1,10 @@
+11. Create a class called customer that takes the customer name as a variable and is initialized with age, location of Washington and a credit score of 718.
+class blaha blah blah # Not sure where to go from here?
+# OMG WHAT ARE CLASSES!?>@>@
+# Not sure what class syntax is but maybe I would make a class with a subclass that does X
+12. Create an object from your customer class with the name of Jessie.
+13. Print the name value of your object.
+14. Print the location of your object.
+15. Print the credit score of your object.
+16. Change the credit score of your object.
+17. Print the new credit score of your object.
